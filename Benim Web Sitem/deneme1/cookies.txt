@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sahibinden.com	TRUE	/	FALSE	1999999999	__cf_bm	D.zz06iYIUM9NJLWAisUqeMqyQL1E8xG0oWwk_nu8D4-1687948619-0-Ae2YWwnYgffJa1h/k/XeAFH/scRFE/3gyUAC2vPscyUAwlUGVyn7XM4F4oAhtT3wM1gMOOGUwIHj8JJvibGaVeA=
+banaozel.sahibinden.com	TRUE	/	FALSE	1999999999	SameSite	None
+
